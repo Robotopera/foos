@@ -29,7 +29,7 @@ IR emitting LED
 ![Table inside closer]
 (table_inside2.jpg)
 
-IR Receiver mounted to a small piede of wood behind the hole
+IR Receiver mounted to a small piece of wood behind the hole
 
 ![Receiver]
 (receiver.jpg)
